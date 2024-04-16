@@ -1,4 +1,5 @@
 import obspython as OBS
+from datetime import datetime
 import time
 
 # variables for OBS properties later
