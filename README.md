@@ -1,2 +1,5 @@
 # toastis-obs-scripts
 OBS Scripts that I have made
+
+##THIS IS INCOMPLETE AND WILL LIKELY CRASH OBS
+##PLEASE WAIT UNTIL A FULL RELEASE
